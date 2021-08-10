@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create your README</title>
+    <script type="text/javascript" src="generator.js"></script>
+    <script>
+        console.log("reset")
+        function myFunction() {
+            document.getElementById("myform").reset();
+        }
+    </script>
+</head>
+<body>
+    <form id="myform">
+        <label for="fname">First name:</label>
+        <input type="text" id="fname" name="fname"><br><br>
+
+        <label for="lname">Last name:</label>
+        <input type="text" id="lname" name="lname"><br><br>
+
+        <label for="linkedin">LinkedIn Profile Link</label>
+        <input type="text" id="linkedin" name="linkedin"><br><br>
+
+        <label for="website">Personal Website</label>
+        <input type="text" id="website" name="website"><br><br>
+
+        <label for="respath">Path to Resume</label>
+        <input type="text" id="respath" name="respath"><br><br>
+
+        <label for="restime">Time Resume Last Updated</label>
+        <input type="text" id="restime" name="restime"><br><br>
+
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email"><br><br>
+
+        <label for="bio">Bio</label>
+        <textarea type="text" id="bio" name="bio"> </textarea>
+
+        <input type="button" value="generate" onclick="run()">
+        <input type="submit" onclick="myFunction()" value="Reset">
+
+      </form>
+      <!-- <code id="output">output will be here</code> -->
+
+      <textarea type="text" id="output" name="output"> </textarea>
+</body>
+</html>
+</form>
