@@ -12,7 +12,9 @@
 
 ## Instructions (Automatic)
 
-Coming soon...
+Use the autogenerator here: http://www.averychan.site/SimpleReadme/
+
+(if the link is ever down, just download this repo and use index.html)
 
 ## Instructions (Manual)
 
