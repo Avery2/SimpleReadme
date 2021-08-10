@@ -12,7 +12,7 @@
 
 ## Instructions (Automatic)
 
-Coming soon...
+Use the autogenerator here: http://www.averychan.site/SimpleReadme/
 
 ## Instructions (Manual)
 
