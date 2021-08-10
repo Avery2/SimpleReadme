@@ -14,6 +14,8 @@
 
 Use the autogenerator here: http://www.averychan.site/SimpleReadme/
 
+(if the link is ever down, just download this repo and use index.html)
+
 ## Instructions (Manual)
 
 1. Create a repository that is the same as your github username _(for example: GitHubUser/GitHubUser)_
