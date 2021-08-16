@@ -73,7 +73,7 @@ Replace the following text. Count included to make sure you get each one.
 | TIME_LAST_UPDATED      | 1     | Last time your Resume was updated. (Ex: "Jun 2001")        |
 
 
-## 🛠 Tools for this README
+## Tools for this README
 
 | Tool | Link |
 |---|---:|
