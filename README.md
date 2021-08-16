@@ -26,10 +26,10 @@ I’m currently a computer science and data science double major at the Universi
 
 <details>
 
-  <summary>Example Source:</summary>
+<summary>Example Source:</summary>
   
 ```
-# Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
+# Hi, I’m Avery 👋
 
 I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
@@ -64,8 +64,7 @@ See [my profile](https://github.com/Avery2) in this style.
 6. Done! It should show up at your profile.
 
 <details>
-
-  <summary>Raw Text</summary>
+<summary>Raw Text</summary>
   
 ```
 # Hi, I'm FIRST_LAST 👋
