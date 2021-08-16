@@ -25,3 +25,7 @@ label {
 #generate, #reset {
     width: auto;
 }
+
+#output {
+    height: 300px;
+}
