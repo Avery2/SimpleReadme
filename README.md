@@ -59,7 +59,7 @@ Use the autogenerator here: http://www.averychan.site/SimpleReadme/
 5. Replace the bio placeholder
 6. Done! It should show up at your profile.
 
-## Replacement
+### Replacement
 
 Replace the following text. Count included to make sure you get each one.
 
