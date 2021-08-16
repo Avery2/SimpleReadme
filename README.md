@@ -10,7 +10,7 @@ SimpleReadme helps you make a simple yet good looking README. You can use it onl
   
 ---
 
-# Hi, I’m Avery 👋 <sub><sup>_(full name: Justin "Avery" Chan)_</sup></sub>
+# Hi, I’m Avery 👋
 
 I’m currently a computer science and data science double major at the University of Wisconsin-Madison. This summer I am working as a developer intern at [Halo Science](https://www.halo.science/).
 
