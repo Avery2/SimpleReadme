@@ -2,7 +2,7 @@
 
 > You can add a README to your GitHub profile to tell other people about yourself. ([docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme))
 
-SimpleReadme helps you make a simple yet good looking README. You can use [this](http://www.averychan.site/SimpleReadme/) online tool (hosted with github pages) to generate the README text for you.
+SimpleReadme helps you make a simple yet good looking README. You can use it online [here](http://www.averychan.site/SimpleReadme/) to generate the text for you.
 
 <details open>
 
